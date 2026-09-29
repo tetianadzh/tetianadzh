@@ -6,6 +6,4 @@ I'm **Tetiana**, a Master's student in Management and Digital Technology at TUM 
 
 📱 Before my Master's, I spent 3 years as a Product Manager for a mobile banking app.
 
-📂 Here you'll find my university projects.
-
 ⚡ I'm always looking to learn more. If you know good courses in data analytics or supply chain, I'd be happy to hear your suggestions!
